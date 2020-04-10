@@ -75,9 +75,3 @@ void loop() {
     lcd.clear();
   }
 }
-
-
-
-
-
-
